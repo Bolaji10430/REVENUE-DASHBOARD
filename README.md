@@ -41,7 +41,7 @@ The analysis was carried out based on the problem statement. i effectively make 
 
 
 ## DASHBOARD
-
+i tried as much as possible to create connection between the tables. i effectively make use of my slicer and timeline which is clickable and reflected on the six visuals
 
 ![image](https://user-images.githubusercontent.com/124039605/235754841-fd9631f0-6577-4b78-a759-275ee5e3142d.png)
 
