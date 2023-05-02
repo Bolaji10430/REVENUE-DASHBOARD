@@ -18,3 +18,5 @@ The sales analysis project aims to analyse and gain insights from a dataset of s
 ## TOOLS
 Excel
 
+
+
