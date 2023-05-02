@@ -10,6 +10,9 @@ The sales analysis project aims to analyse and gain insights from a dataset of s
 ## PROBLEM STATEMENT
 
 * Top ten state in revenue
+
+![image](https://user-images.githubusercontent.com/124039605/235753097-ec012720-a626-4a67-b344-17528a68757a.png)
+
 * Total revenue by products
 * Revenue by products categories
 * Monthly revenue trends
@@ -26,3 +29,14 @@ The data set comprises of different tables like; Sales table, Sales team, Produc
 
 Data model was included to create relationship between the primary and foreign keys to ensure data intergrity.
 I proceeded in creating my pivot tables that gave different analysis on tables that will appear on the dashboard. the top five products that maintain the highest revenue are: clocks, cookware, ornament, phone and vases while the top ten states that maintain the highest revenue, population and median are California, New York, Texas and others
+
+
+## ANALYSIS
+The analysis was carried out based on the problem statement. i effectively make use of conditional formatting to list out best products, teams or states.
+
+![image](https://user-images.githubusercontent.com/124039605/235752453-d713b9c8-bf86-4322-9931-3bed5373d91c.png)
+
+
+
+
+
