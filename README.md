@@ -8,6 +8,7 @@ The sales analysis project aims to analyse and gain insights from a dataset of s
 
 
 ## PROBLEM STATEMENT
+
 *Top ten state in revenue
 *Total revenue by products
 *Revenue by products categories
